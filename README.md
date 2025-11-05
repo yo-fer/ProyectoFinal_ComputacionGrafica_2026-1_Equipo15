@@ -1,1 +1,2 @@
-# ProyectoFinal_ComputacionGrafica_2026-1_Equipo15
+# ProyectoFinal Computación Gráfica  
+##2026-1 Equipo15
