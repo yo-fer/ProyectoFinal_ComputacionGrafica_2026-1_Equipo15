@@ -1,0 +1,1 @@
+# ProyectoFinal_ComputacionGrafica_2026-1_Equipo15
